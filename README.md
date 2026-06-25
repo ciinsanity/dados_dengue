@@ -1,4 +1,4 @@
-# Dados da Dengue de 2025!
+# Dados da Dengue de 2025
 
 Aqui estão os links:
 - [Link do slide](https://canva.link/37vc5r6wehczo3e)
