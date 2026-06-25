@@ -1,6 +1,5 @@
-# Links Importantes
+# Dados da Dengue de 2025!
 
-Aqui estão alguns links importantes:
-
-- [Canva Link](https://canva.link/37vc5r6wehczo3e)
-- [Google Colab Notebook](https://colab.research.google.com/drive/112zjxZwVjlNMzrNCxfdLBBC-WPOf03wn?usp=sharing)
+Aqui estão os links:
+- [Link do slide](https://canva.link/37vc5r6wehczo3e)
+- [Link do collab](https://colab.research.google.com/drive/112zjxZwVjlNMzrNCxfdLBBC-WPOf03wn?usp=sharing)
